@@ -8,4 +8,4 @@ The three body problem is a problem in physics involving the interactions of thr
 
 ## Running this application
 
-This application is running at this url: [https://deltak.app/projects/three-body-problem}(https://deltak.app/projects/three-body-problem)
+This application is running at this url: [https://deltak.app/projects/three-body-problem](https://deltak.app/projects/three-body-problem)
